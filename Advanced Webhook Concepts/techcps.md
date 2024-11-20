@@ -32,6 +32,19 @@
 - **Guide the customer step by step and provide handover if needed.**
 ---
 
+
+## 🚨 Other Technical Considerations Quiz Answers:
+
+### Que. Why enable Data Loss Prevention in Dialogflow CX?
+- **To redact Personal Identifiable Information.**
+
+### Que. What is the minimum configuration required for a webhook?
+- **Display name and URL**
+
+### Que. What is the best way to secure your webhook?
+- **Utilizing the authentication methods available**
+---
+
 ## 🚨 Webhook Networking Quiz Answers:
 
 ### Que. What network strategies can you use to restrict connections further?
