@@ -1,7 +1,7 @@
 
 ### 💡 Course Link: [CCAI Frontend Integrations](https://www.cloudskillsboost.google/paths/371/course_templates/1013?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade24)
 
-### 🚀 Course Solution [Watch Here](https://www.youtube.com/@techcps)
+### 🚀 Course Solution [Watch Here](https://youtu.be/sH37UwZukI0)
 
 ---
 
