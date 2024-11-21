@@ -1,7 +1,7 @@
 
 ### 💡 Course Link: [CCAI Architecture](https://www.cloudskillsboost.google/paths/371/course_templates/1002?utm_campaign=arcade24&utm_medium=lp&utm_source=qwiklabs)
 
-### 🚀 Course Solution [Watch Here](https://www.youtube.com/@techcps)
+### 🚀 Course Solution [Watch Here](https://youtu.be/TAJmeTDt40Y)
 
 ---
 
