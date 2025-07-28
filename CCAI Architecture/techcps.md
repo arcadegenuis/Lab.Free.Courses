@@ -7,108 +7,137 @@
 
 ### ⚠️ Disclaimer
 - **This script and guide are provided for  the educational purposes to help you understand the lab services and boost your career. Before using the script, please open and review it to familiarize yourself with Google Cloud services. Ensure that you follow 'Qwiklabs' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.**
----
 
-## 🚨CCAI Resource Management Quiz Answers:
-
-### Que. DialogFlow Virtual Agents as resources are
-- **Either global or regional.**
-
-### Que. When choosing the DialogFlow edition,
-- **DialogFlow CX should be used in almost all cases, especially cases where complex virtual agents are being created.**
-
-### Que. Google Cloud DLP is used to
-- **Identify PII and redact where necessary.**
-
-### Que. I just created a Dialogflow Virtual Agent. This agent is…
-- **Associated with a Google Cloud project.**
+### ©Credit
+- **DM for credit or removal request (no copyright intended) ©All rights and credits for the original content belong to Google Cloud [Google Cloud Skill Boost website](https://www.cloudskillsboost.google/)** 🙏
 
 ---
 
-## 🚨 Planning for Virtual Agents Quiz Answers:
+---
 
-### Que. What are 3 core areas to consider when deploying Google Cloud foundation for Virtual Agents?
-- **Network, Security and Billing**
+## **CCAI Resource Management Quiz**
 
-### Que. What are best practices for a multi-region setup?
-- **Use a load balancer**
+1. **DialogFlow Virtual Agents as resources are:**  
+   - Either global or regional.
 
-### Que. What is not a benefit of using Omni Channel?
-- **Agent high availability.**
+2. **When choosing the DialogFlow edition:**  
+   - DialogFlow CX should be used in almost all cases, especially cases where complex virtual agents are being created.
+
+3. **Google Cloud DLP is used to:**  
+   - Identify PII and redact where necessary.
+
+4. **I just created a Dialogflow Virtual Agent. This agent is…**  
+   - Associated with a Google Cloud project.
 
 ---
 
-## 🚨 Planning for Agent Assist Quiz Answers:
+## **Planning for Virtual Agents Quiz**
 
-### Que. What two protocols are used for Voice integrations?
-- **gRPC and SIPREC**
+1. **What are 3 core areas to consider when deploying Google Cloud foundation for Virtual Agents?**  
+   - Network, Security and Billing
 
-### Que. Is SIPRec protocol used to minimize Agent Assist latency?
-- **True**
+2. **What are best practices for a multi-region setup?**  
+   - Use a load balancer
 
-### Que. Is Sentiment Analysis a feature of Agent Assist?
-- **True**
-  
----
-
-
-## 🚨 Planning for CCAI Insights Quiz Answers:
-
-### Que. Insights is best suited to address which of the following use cases?
-- **Contact center workforce forecasting.**
-
-### Que. Which Insights feature can be used to identify call drivers?
-- **Topic Modeling**
-
-### Que. Which route is best suited for live data Ingestion within Insights?
-- **Runtime Integration**
-  
----
-
-## 🚨 CCAI Deployment and Operations Quiz Answers:
-
-### Que. SCRAPI is a high level ______ API.
-- **Python**
-
-### Que. In addition to CCAI Insights, customers have the option of extracting data from Dialogflow CX directly into…
-- **BigQuery**
-
-### Que. Which Disaster Recovery (DR) measure focuses on obtaining alerts when the system or its parts are failing?
-- **Detective**
-  
----
-
-
-## 🚨 Security and Compliance Quiz Answers:
-
-### Que. Data that flows through the CCAI platform is encrypted…
-- **In transit and at rest.**
-
-### Que. A DLP API request is?
-- **Stateless, not persisted,Encrypted in transit, and supports data residency.**
- 
-### Que. Dialogflow CX is compliant for which SOC certifications?
-- **SOC 1, SOC2, & SOC3**
-  
----
-
-### Congratulations! You passed this assessment.😄
+3. **What is not a benefit of using Omni Channel?**  
+   - Agent high availability.
 
 ---
 
-### 🌐 Join our Community
+## **Planning for Agent Assist Quiz**
 
-- <img src="https://github.com/user-attachments/assets/a4a4b767-151c-461d-bca1-da6d4c0cd68a" alt="icon" width="25" height="25"> **Join our [Telegram Channel](https://t.me/Techcps) for the latest updates & [Discussion Group](https://t.me/Techcpschat) for the lab enquiry**
-- <img src="https://github.com/user-attachments/assets/aa10b8b2-5424-40bc-8911-7969f29f6dae" alt="icon" width="25" height="25"> **Join our [WhatsApp Community](https://whatsapp.com/channel/0029Va9nne147XeIFkXYv71A) for the latest updates**
-- <img src="https://github.com/user-attachments/assets/b9da471b-2f46-4d39-bea9-acdb3b3a23b0" alt="icon" width="25" height="25"> **Follow us on [LinkedIn](https://www.linkedin.com/company/techcps/) for updates and opportunities.**
-- <img src="https://github.com/user-attachments/assets/a045f610-775d-432a-b171-97a2d19718e2" alt="icon" width="25" height="25"> **Follow us on [TwitterX](https://twitter.com/Techcps_/) for the latest updates**
-- <img src="https://github.com/user-attachments/assets/84e23456-7ed3-402a-a8a9-5d2fb5b44849" alt="icon" width="25" height="25"> **Follow us on [Instagram](https://instagram.com/techcps/) for the latest updates**
-- <img src="https://github.com/user-attachments/assets/fc77ddc4-5b3b-42a9-a8da-e5561dce0c70" alt="icon" width="25" height="25"> **Follow us on [Facebook](https://facebook.com/techcps/) for the latest updates**
+1. **What two protocols are used for Voice integrations?**  
+   - gRPC and SIPREC
+
+2. **Is SIPRec protocol used to minimize Agent Assist latency?**  
+   - True
+
+3. **Is Sentiment Analysis a feature of Agent Assist?**  
+   - True
 
 ---
 
-# <img src="https://github.com/user-attachments/assets/6ee41001-c795-467c-8d96-06b56c246b9c" alt="icon" width="45" height="45"> [Techcps](https://www.youtube.com/@techcps) Don't Forget to like share & subscribe
+## **Planning for CCAI Insights Quiz**
 
-### Thanks for watching and stay connected :)
+1. **Insights is best suited to address which of the following use cases?**  
+   - Contact center workforce forecasting.
+
+2. **Which Insights feature can be used to identify call drivers?**  
+   - Topic Modeling
+
+3. **Which route is best suited for live data ingestion within Insights?**  
+   - Runtime Integration
+
 ---
 
+## **CCAI Deployment and Operations Quiz**
+
+1. **SCRAPI is a high level ______ API.**  
+   - Python
+
+2. **In addition to CCAI Insights, customers have the option of extracting data from Dialogflow CX directly into…**  
+   - BigQuery
+
+3. **Which Disaster Recovery (DR) measure focuses on obtaining alerts when the system or its parts are failing?**  
+   - Detective
+
+---
+
+## **Security and Compliance Quiz**
+
+1. **Data that flows through the CCAI platform is encrypted…**  
+   - In transit and at rest.
+
+2. **A DLP API request is?**  
+   - Stateless, not persisted, encrypted in transit, and supports data residency.
+
+3. **Dialogflow CX is compliant for which SOC certifications?**  
+   - SOC 1, SOC 2, & SOC 3
+
+---
+
+<div align="center" style="padding: 5px;">
+  <h3>📺 Don't forget to Like, Share & Subscribe!</h3>
+
+  <a href="https://www.youtube.com/@techcps">
+    <img src="https://img.shields.io/badge/YouTube-TechCPS-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+  </a>
+</div>
+
+---
+
+<div align="center" style="padding: 5px;">
+  <h3>📱 Join the Cloud Community</h3>
+
+  <a href="https://t.me/Techcps">
+    <img src="https://img.shields.io/badge/Telegram_Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+  </a>
+  &nbsp;
+  <a href="https://t.me/Techcpschat">
+    <img src="https://img.shields.io/badge/Telegram_Chat-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat">
+  </a>
+  &nbsp;
+  <a href="https://whatsapp.com/channel/0029Va9nne147XeIFkXYv71A">
+    <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/techcps/">
+    <img src="https://img.shields.io/badge/LinkedIn-TechCPS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/Techcps_/">
+    <img src="https://img.shields.io/badge/TwitterX-TechCPS-000000?style=for-the-badge&logo=x&logoColor=white" alt="TwitterX">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/techcps/">
+    <img src="https://img.shields.io/badge/Instagram-TechCPS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/techcps/">
+    <img src="https://img.shields.io/badge/Facebook-TechCPS-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <h3>Thanks for watching and stay connected 🙂</h3>
+</div>
+
+---
