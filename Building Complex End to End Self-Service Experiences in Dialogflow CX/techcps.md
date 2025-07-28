@@ -1,7 +1,7 @@
 
 ### 💡 Course Link: [Building Complex End to End Self-Service Experiences in Dialogflow CX](https://www.cloudskillsboost.google/course_templates/1103)
 
-### 🚀 Course Solution [Watch Here](https://youtu.be/zAKwcJj1SCo)
+### 🚀 Course Solution [Watch Here](https://youtu.be/uLrs5leAHAQ)
 
 ---
 
