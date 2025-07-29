@@ -1,7 +1,7 @@
 
 ### 💡 Course Link: [Google Slides](https://www.cloudskillsboost.google/course_templates/197)
 
-### 🚀 Course Solution [Watch Here](https://youtu.be/itdlH1qHTyA)
+### 🚀 Course Solution [Watch Here](https://youtu.be/LahybBau99A)
 
 ---
 
