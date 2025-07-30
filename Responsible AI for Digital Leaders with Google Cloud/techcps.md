@@ -1,7 +1,7 @@
 
 ### 💡 Course Link: [Responsible AI for Digital Leaders with Google Cloud](https://www.cloudskillsboost.google/course_templates/1069)
 
-### 🚀 Course Solution [Watch Here](https://youtu.be/LahybBau99A)
+### 🚀 Course Solution [Watch Here](https://youtu.be/Yb5S8_mo5Aw)
 
 ---
 
