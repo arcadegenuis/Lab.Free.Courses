@@ -1,7 +1,7 @@
 
 ### 💡 Course Link: [Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation](https://www.cloudskillsboost.google/course_templates/1080)
 
-### 🚀 Course Solution [Watch Here](https://youtu.be/lxQyrCL6kz0)
+### 🚀 Course Solution [Watch Here](https://youtu.be/px_TB4RYDhI)
 
 ---
 
