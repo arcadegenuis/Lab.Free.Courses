@@ -1,7 +1,7 @@
 
 ### 💡 Course Link: [Google Calendar](https://www.cloudskillsboost.google/course_templates/201)
 
-### 🚀 Course Solution [Watch Here](https://youtu.be/K7d-HoReH1Y)
+### 🚀 Course Solution [Watch Here](https://youtu.be/1FDAZbljw1E)
 
 ---
 
