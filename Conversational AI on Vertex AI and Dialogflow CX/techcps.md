@@ -1,7 +1,7 @@
 
 ### 💡 Course Link: [Conversational AI on Vertex AI and Dialogflow CX](https://www.cloudskillsboost.google/course_templates/892)
 
-### 🚀 Course Solution [Watch Here](https://youtu.be/px_TB4RYDhI)
+### 🚀 Course Solution [Watch Here](https://youtu.be/Fe98R0pKBYk)
 
 ---
 
