@@ -1,7 +1,7 @@
 
-### 💡 Course Link: [Conversational AI on Vertex AI and Dialogflow CX](https://www.cloudskillsboost.google/course_templates/892)
+### 💡 Course Link: [Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation](https://www.cloudskillsboost.google/course_templates/1080)
 
-### 🚀 Course Solution [Watch Here](https://youtu.be/px_TB4RYDhI)
+### 🚀 Course Solution [Watch Here](https://youtu.be/lxQyrCL6kz0)
 
 ---
 
@@ -11,151 +11,61 @@
 ### ©Credit
 - **DM for credit or removal request (no copyright intended) ©All rights and credits for the original content belong to Google Cloud [Google Cloud Skill Boost website](https://www.cloudskillsboost.google/)** 🙏
 
----
-
-## **Generative AI for Dialogflow CX Quiz**
-
-1. **Recently, some of your customers have been asking questions that your Dialogflow CX virtual agent is unable to answer. You realize that intents have not been defined for these types of questions. What generative AI feature would you add to your solution to handle conversations that have gone off-track?**  
-   - Generative Fallback
-
-2. **What are two of the key benefits of using generative AI features in Dialogflow CX? (Select two options)**  
-   - Generated content is restricted to what you want it for
-   - Chatbots provide accurate and helpful information
-
-3. **What are two of the main generative AI capabilities that have been added to Dialogflow CX? (Select two options)**  
-   - Generators
-   - Generative AI Agent
-
-4. **You have been asked to add generative AI capabilities to your Dialogflow CX virtual agent that will enable it to reference the existing FAQs on the company website. What generative AI feature would you add to your solution to enable this functionality?**  
-   - Generative AI Agent
 
 ---
 
-## **Generators quiz**
 
-1. **When configuring a Generator there are some controls that can be used to customize the behavior of the generative responses. What are the controls available to you to customize the generative AI responses?** (Select two options)
-   - LLM parameters, such as Temperature, Top P and Top K
-   - Text Prompt
+## **MLOps: Introduction to Model Evaluation Quiz**
 
-2. **With generators, you can make a prompt contextual by marking words as placeholders by adding a $ before the word. These placeholders usually hold a position in the prompt that will be substituted for user input data at runtime. What session parameter can you associate with the $text prompt placeholder?**  
-   - Any of the session parameters identified in the Intents
-
-3. **Which two language models can a Generator use to generate code? (Select two options)**  
-   - code-bison
-   - text-bison
-
-4. **Read the text prompt below and answer the following question. What information would the highlighted $conversation placeholder parse into the prompt? Your goal is to summarize a given conversation between a Human and an AI. Conversation: $conversation{USER:"Human:" AGENT:"AI:"}Human: $last-user-utterance A concise summary of the conversation in 1 or 2 sentences is:**  
-   - The conversation between the agent and the user, excluding the very last user utterance.
+1. **An ML engineer is working on a large-scale project that involves training multiple machine learning models. They are evaluating a new model and want to ensure it can adapt to changes in real-world data over time. Which of the following evaluation strategies should the engineer prioritize?**  
+   - Continuous evaluation to monitor model performance on new data after deployment and retrain as needed.
 
 
-5. **Generators have a particular set of capabilities that can be utilized by a Dialogflow CX virtual agent in a customer conversation. What are two capabilities of Generators?** (Select two options)
-   - Sentiment analysis of customer responses
-   - Conversation Summarization
+2. **An ML engineer is developing a customer churn prediction model. During model evaluation, they notice the model performs exceptionally well on the training data but poorly on new, unseen data. Which of the following concepts best describes this issue?**  
+   - Overfitting
 
-6. **What is the correct syntax for a Generator’s output parameter?**
-   - $request.generative
----
+3. **A data science team is struggling to manage the lifecycle of their machine learning models from development to deployment. They face challenges with inconsistent model performance, difficulty tracking model versions, and a lack of collaboration between team members. Which of the following best describes how adopting an MLOps approach with Vertex AI could address these issues?**  
+   - MLOps with Vertex AI would provide a structured framework for managing the entire ML lifecycle, promoting collaboration, enabling version control, and improving model performance consistency.
 
-## **Generative Fallback quiz**
-
-1. **A Dialogflow CX flow has been designed for booking diving trips. A particular page in the flow is configured to assist users with group reservations or full charters, the intent description states: ‘Currently you can assist users who are looking for a group reservation or a full charter. Initially collect travel details including departure period, destination, number of guests (min 4 max 15 people), contact details. The destination must be one of the following in the Pacific: Costa Rica, Mexico, Galapagos Islands.’ Which Generative Fallback enablement levels would be triggered if the user tries to book a full charter for 18 people?** (Select two options)
-   - The page-level would be triggered as the minimum and maximum number of guests is specified in the intent description. The LLM also uses this description to generate the response.
-   - The parameter-level would be triggered as the minimum and maximum number of guests is defined as an entity parameter. The LLM uses the intent description to generate the response.
-
-
-2. **Generative Fallback is a mechanism for handling points in a conversation with a Dialogflow CX virtual agent, where the user moves away from the intended flow and doesn't trigger another action or flow, known as a No Match error. What kind of user response could invoke a No Match error?** (Select two options)
-   - Saying something unexpected
-   - An invalid input while form filling
-
-3. **You can add a list of banned phrases for your Generative Fallback response. What happens if a banned phrase has been entered by a user as part of their response?**  
-   - A prescribed answer defined in Agent Says will be used to respond.
-
-4. **Which statement is true for Generative Fallback:**  
-   - Aim to prevent no-match scenarios by providing good, varied training phrases to your intents.
-
-5. **You have been asked to enable generative responses for no-match events for specific pages, by enabling it in the Agent response section of the event handler. Where would you provide the information for the LLM to reference to generate its response?**
-   - Intent description
-
-
-6. **What is the correct definition of the $route-descriptions prompt placeholder?**
-   - The intent descriptions of the active intents.
-
----
-
-## **Generative AI for virtual agents quiz**
-
-1. **Which two features are used by Generative AI Agents to provide a response based on your data?** (Select two options)
-   - Data stores
-   - Large Language Models
-
-2. **Data stores are used to find answers for end-user's questions. A data store can consist of different sources. What types of source data are available for data stores in a Vertex AI Search and Conversation?**
-   - Website, structured and unstructured data.
-
-3. **What are two other important and useful features that are part of Generative AI Agents and data stores?** (Select two options)
-   - Data store prompt
-   - Grounding confidence
-
-4. **Which two statements are true for Generative AI Agents? (Select two options)**  
-   - With Hybrid Agents you can use a mix-and-match approach to leverage both intent-based flows and generative AI use cases.
-   - Keep what is working well in Dialogflow CX and add generative AI capabilities.
-
-5. **A Virtual Agent uses intent detection to route customer questions to the relevant information. Generative AI capabilities can be added to handle certain intent detection routes. Which aspect of Dialogflow CX Agent intent detection do Generative AI Agents cover?**  
-   - State handlers
-
----
-
-## **Vertex AI Search and Conversation architecture and security quiz**
-
-1. **The website team is creating a microservice that will be responsible for creating controls and serving configs to filter out what data is presented to users after they perform a query. Which role should you assign them?**
-   - Discovery Engine Admin
-
-2. **Choose the answer that best describes the security posture of Vertex AI Search and Conversation.**
-   - Vertex AI Search and Conversation offers the same security capabilities as other Google Cloud Perimeter products like BigQuery, including data encryption, no data sharing across customers, and Google will never use your data to train foundation models.
-
-
-3. **The development team is creating a microservice that will be responsible for ingesting new documents into the Vertex AI Search and Conversation unstructured data store on bulk every hour. Which role should you assign them?**
-   - Discovery Engine Editor
-
-4. **The security team needs to perform some audit tasks to your datastores on Vertex AI Search and Conversation to make sure the right documents and user events are being ingested. Which role should you assign them?**
-   - Discovery Engine Viewer
-
----
-
-## **Generative Playbooks quiz**
-
-1. **What can you do to improve the accuracy of the agent’s behaviour?**
-   - Write clear instructions combined with thorough training examples.
-
-
-2. **What are two generative AI related features of Dialogflow CX that can be used with Playbooks?** (Select two options)
-   - Data stores
-   - Generative AI Agents
-
-3. **What is the purpose of the ReAct pattern?**
-   - To enable LLMs to generate both verbal reasoning traces and text actions to solve various language reasoning and decision making tasks.
-
-
-4. **What is a tool in the context of a playbook?** (Select two options)
-   - Tools are a collection of functions that are available to the playbook and the Dialog Manager.
-   - Tools are API calls, defined by a schema in the OpenAPI 3.0 format.
-
-
-5. **What are two key steps in connecting a Generative Playbook with a data store?**
-   - Create a Playbook tool for the Generative AI Agent
-   - Select the data store in the tool user interface and save the tool.
-
-
-6. **What are two powerful features of Generative Playbooks?** (Select two options)
-   - Playbooks enable LLMs to access APIs and tools.
-   - Playbooks can leverage LLMs for instruction-driven flow development.
-
-
-7. **What are two of the limits of Generative Playbooks?** (Select two options)
-   - 15k input tokens and 500 output tokens summed across a conversation turn
-   - 5 LLM calls per conversation turn
+4. **You're working on a machine learning project and need to evaluate your model's performance. Which of the following scenarios would benefit from using Vertex AI's model evaluation service? Select all that apply.**  
+   - You are concerned that your model may be overfitting to your training data and want to assess its performance on unseen data.
+   - You need to monitor your deployed model's performance over time and detect potential issues like concept drift.
+   - You have a large dataset and need to compare multiple model versions to find the best one.
 
 
 ---
+
+## **MLOps: Model Evaluation for Generative AI Quiz**
+
+1. **During the evaluation of an LLM, you find that the model often produces responses that sound fluent and grammatical but are factually incorrect. Which of the following evaluation challenges does this example illustrate?**  
+   - Model complexity and decision-making
+
+
+2. **A company is using a generative AI model to write marketing copy. Which evaluation approach would help them ensure that the generated content is both creative and relevant to their target audience?**  
+   - Combining automated metrics for diversity and relevance with human evaluation for creativity and brand alignment.
+
+
+3. **Which component of an LLM block is responsible for storing and retrieving past interactions with the model to provide context for future requests?**  
+   - Memory
+
+
+4. **You're tasked with evaluating multiple versions of a language model for summarizing news articles. You want to know which model produces the most informative and coherent summaries. Which evaluation type would be most appropriate?**  
+   - Ranking evaluation: have human evaluators rank the summaries from different models based on their overall quality.
+
+5. **An ML engineer is tasked with selecting the best-performing image classification model from three candidates, all trained on the same dataset. Their primary goal is to understand how each model performs in real-world scenarios and identify areas for potential improvement. Which evaluation approach would be most effective for this initial assessment?**  
+   - Pointwise evaluation, focusing on the absolute performance of each model and identifying its strengths and weaknesses.
+
+6. **When using evaluation methods like BLEU or ROUGE for LLM assessment, which of the following challenges is most likely to arise if the reference dataset is limited or biased?**  
+   - The evaluation may underestimate the model's true capabilities because the reference data doesn't cover the full range of acceptable responses.
+
+
+5. **You're evaluating a language model designed to generate creative stories. Which of the following evaluation approaches would be most relevant? Select all that apply.**  
+   - Assessing the diversity and originality of the generated stories.
+   - Calculating the perplexity of the model's output.
+
+
+---
+   
 
 <div align="center" style="padding: 5px;">
   <h3>📺 Don't forget to Like, Share & Subscribe!</h3>
