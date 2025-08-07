@@ -1,5 +1,4 @@
 ### 💡 Course Link: [Advanced Webhook Concepts](https://www.cloudskillsboost.google/paths/371/course_templates/1098?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade24)
-
 ---
 
 ### ⚠️ Disclaimer
